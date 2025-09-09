@@ -549,7 +549,7 @@
     <!-- Footer -->
     <footer class="footer">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 2rem;">
-            <p>&copy; {{ date('Y') }} My Blog. All rights reserved. Made with ❤️ for the community.</p>
+            <p>&copy; {{ date('Y') }} My Blog. All rights reserved. Made with ❤️ for the communityyy.</p>
         </div>
     </footer>
 
