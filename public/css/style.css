@@ -14,7 +14,8 @@ body {
 
 /* Navbar */
 .navbar {
-    background: linear-gradient(135deg, #007bff, #0056b3); /* Gradient biru profesional */
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    /* Gradient biru profesional */
     color: #fff;
     padding: 15px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -75,7 +76,9 @@ body {
 }
 
 /* Heading */
-h2, h3, h4 {
+h2,
+h3,
+h4 {
     color: #007bff;
     margin-bottom: 20px;
 }
@@ -92,7 +95,9 @@ label {
     margin-bottom: 5px;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
     width: 100%;
     padding: 12px;
     border: 1px solid #ced4da;
@@ -101,7 +106,9 @@ input, textarea, select {
     transition: border-color 0.3s;
 }
 
-input:focus, textarea:focus, select:focus {
+input:focus,
+textarea:focus,
+select:focus {
     border-color: #007bff;
     outline: none;
 }
@@ -159,7 +166,8 @@ button:hover {
     gap: 15px;
 }
 
-.post-actions a, .post-actions button {
+.post-actions a,
+.post-actions button {
     color: #007bff;
     text-decoration: none;
     font-weight: bold;
@@ -171,13 +179,14 @@ button:hover {
     cursor: pointer;
 }
 
-.post-actions a:hover, .post-actions button:hover {
+.post-actions a:hover,
+.post-actions button:hover {
     color: #0056b3;
 }
 
 /* Footer */
 .footer {
-    background-color: #f8f9fa;
+    background-color: #9bb5cf;
     text-align: center;
     padding: 20px;
     color: #6c757d;
