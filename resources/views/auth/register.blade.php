@@ -136,7 +136,7 @@
             </button>
         </form>
 
-        <!-- Login Link -->
+        <!-- Login Linkkk -->
         <div style="text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #e2e8f0;">
             <p style="color: #718096; margin-bottom: 1rem;">
                 Already have an account?
